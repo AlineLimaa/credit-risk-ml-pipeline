@@ -100,6 +100,7 @@ credit-risk-german/
 ## Autora
 
 **Aline Brito Lima**
+
 Cientista de Dados (em transição de carreira)
 
 > Projeto desenvolvido com foco em aprendizado, boas práticas e construção de portfólio profissional.
