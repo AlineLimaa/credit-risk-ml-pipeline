@@ -1,4 +1,4 @@
-# Projeto de Portfólio – Modelagem de Risco de Crédito
+# Modelagem de Risco de Crédito
 
 Este repositório apresenta um projeto completo de **Ciência de Dados aplicada ao risco de crédito**, utilizando a base **German Credit Data**. O projeto foi estruturado com foco em **clareza, reprodutibilidade, boas práticas de modelagem** e **comunicação com públicos técnicos e não técnicos**, simulando um fluxo próximo ao utilizado em ambientes profissionais.
 
